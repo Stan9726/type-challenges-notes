@@ -13,3 +13,4 @@ My solutions to the questions of type-challenges.
 | 00043  |            Exclude             |    Easy    |       #built-in       |
 | 00189  |            Awaited             |    Easy    | #promise<br>#built-in |
 | 00268  |               If               |    Easy    |        #utils         |
+| 00533  |             Concat             |    Easy    |        #array         |
