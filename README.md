@@ -11,3 +11,4 @@ My solutions to the questions of type-challenges.
 | 00014  |         First of Array         |    Easy    |        #array         |
 | 00018  |        Length of Tuple         |    Easy    |        #tuple         |
 | 00043  |            Exclude             |    Easy    |       #built-in       |
+| 00189  |            Awaited             |    Easy    | #promise<br>#built-in |
