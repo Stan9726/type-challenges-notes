@@ -10,3 +10,4 @@ My solutions to the questions of type-challenges.
 | 00011  |        Tuple to Object         |    Easy    |           #           |
 | 00014  |         First of Array         |    Easy    |        #array         |
 | 00018  |        Length of Tuple         |    Easy    |        #tuple         |
+| 00043  |            Exclude             |    Easy    |       #built-in       |
