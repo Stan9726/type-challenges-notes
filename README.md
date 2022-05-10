@@ -16,3 +16,4 @@ My solutions to the questions of type-challenges.
 | 00533  |             Concat             |    Easy    |        #array         |
 | 00898  |            Includes            |    Easy    |        #array         |
 | 03057  |              Push              |    Easy    |        #array         |
+| 03060  |            Unshift             |    Easy    |        #array         |
