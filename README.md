@@ -15,3 +15,4 @@ My solutions to the questions of type-challenges.
 | 00268  |               If               |    Easy    |        #utils         |
 | 00533  |             Concat             |    Easy    |        #array         |
 | 00898  |            Includes            |    Easy    |        #array         |
+| 03057  |              Push              |    Easy    |        #array         |
