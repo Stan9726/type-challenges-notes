@@ -18,3 +18,4 @@ My solutions to the questions of type-challenges.
 | 03057  |              Push              |    Easy    |        #array         |
 | 03060  |            Unshift             |    Easy    |        #array         |
 | 03312  |           Parameters           |    Easy    | #built-in<br>#infer<br>#tuple |
+| 00002  |         Get Return Type        |   Medium   |  #built-in<br>#infer  |
