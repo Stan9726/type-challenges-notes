@@ -22,3 +22,4 @@ My solutions to the questions of type-challenges.
 | 00003  |              Omit              |   Medium   |  #built-in<br>#union  |
 | 00008  |           Readonly 2           |   Medium   | #object-keys<br>#readonly  |
 | 00009  |         Deep Readonly          |   Medium   | #deep<br>#object-keys<br>#readonly |
+| 00010  |         Tuple to Union         |   Medium   | #infer<br>#tuple<br>#union |
