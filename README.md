@@ -25,3 +25,4 @@ My solutions to the questions of type-challenges.
 | 00010  |         Tuple to Union         |   Medium   | #infer<br>#tuple<br>#union |
 | 00012  |       Chainable Options        |   Medium   |     #application      |
 | 00015  |         Last of Array          |   Medium   |        #array         |
+| 00015  |              Pop               |   Medium   |        #array         |
