@@ -27,3 +27,4 @@ My solutions to the questions of type-challenges.
 | 00015  |         Last of Array          |   Medium   |        #array         |
 | 00015  |              Pop               |   Medium   |        #array         |
 | 00020  |          Promise.all           |   Medium   |  #array<br>#built-in  |
+| 00062  |          Type Lookup           |   Medium   |    #map<br>#union     |
