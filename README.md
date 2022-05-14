@@ -26,3 +26,4 @@ My solutions to the questions of type-challenges.
 | 00012  |       Chainable Options        |   Medium   |     #application      |
 | 00015  |         Last of Array          |   Medium   |        #array         |
 | 00015  |              Pop               |   Medium   |        #array         |
+| 00020  |          Promise.all           |   Medium   |  #array<br>#built-in  |
