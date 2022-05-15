@@ -28,3 +28,5 @@ My solutions to the questions of type-challenges.
 | 00015  |              Pop               |   Medium   |        #array         |
 | 00020  |          Promise.all           |   Medium   |  #array<br>#built-in  |
 | 00062  |          Type Lookup           |   Medium   |    #map<br>#union     |
+| 00106  |           Trim Left            |   Medium   |   #template-literal   |
+| 00062  |              Trim              |   Medium   |   #template-literal   |
