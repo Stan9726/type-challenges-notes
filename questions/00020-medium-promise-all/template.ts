@@ -1,5 +1,5 @@
-declare function PromiseAll<T extends unknown[]>(
-  values: readonly [...T]
+declare function PromiseAll<T extends readonly unknown[] | []>(
+  values: T
 ): Promise<{
-  [P in keyof T]: T[P] extends Promise<infer R> ? R : T[P]
+  -readonly [P in keyof T]: Awaited<T[P]>
 }>
