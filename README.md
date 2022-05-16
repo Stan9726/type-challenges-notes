@@ -32,3 +32,4 @@ My solutions to the questions of type-challenges.
 | 00108  |              Trim              |   Medium   |   #template-literal   |
 | 00110  |           Capitalize           |   Medium   |   #template-literal   |
 | 00116  |            Replace             |   Medium   |   #template-literal   |
+| 00119  |           ReplaceAll           |   Medium   |   #template-literal   |
