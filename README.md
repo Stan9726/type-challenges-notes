@@ -37,3 +37,4 @@ My solutions to the questions of type-challenges.
 | 00296  |          Permutation           |   Medium   |        #union         |
 | 00298  |        Length of String        |   Medium   |   #template-literal   |
 | 00459  |            Flatten             |   Medium   |        #array         |
+| 00527  |        Append to object        |   Medium   |     #object-keys      |
