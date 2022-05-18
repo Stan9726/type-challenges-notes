@@ -36,3 +36,4 @@ My solutions to the questions of type-challenges.
 | 00191  |        Append Argument         |   Medium   |      #arguments       |
 | 00296  |          Permutation           |   Medium   |        #union         |
 | 00298  |        Length of String        |   Medium   |   #template-literal   |
+| 00459  |            Flatten             |   Medium   |        #array         |
