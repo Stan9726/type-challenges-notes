@@ -38,3 +38,4 @@ My solutions to the questions of type-challenges.
 | 00298  |        Length of String        |   Medium   |   #template-literal   |
 | 00459  |            Flatten             |   Medium   |        #array         |
 | 00527  |        Append to object        |   Medium   |     #object-keys      |
+| 00529  |            Absolute            |   Medium   | #math<br>#template-literal |
