@@ -40,3 +40,4 @@ My solutions to the questions of type-challenges.
 | 00527  |        Append to object        |   Medium   |     #object-keys      |
 | 00529  |            Absolute            |   Medium   | #math<br>#template-literal |
 | 00531  |        String to Union         |   Medium   |   #string<br>#union   |
+| 00599  |             Merge              |   Medium   |        #object        |
