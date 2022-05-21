@@ -42,3 +42,4 @@ My solutions to the questions of type-challenges.
 | 00531  |        String to Union         |   Medium   |   #string<br>#union   |
 | 00599  |             Merge              |   Medium   |        #object        |
 | 00612  |           KebabCase            |   Medium   |   #template-literal   |
+| 00645  |              Diff              |   Medium   |        #object        |
