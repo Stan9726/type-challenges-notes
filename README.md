@@ -43,3 +43,4 @@ My solutions to the questions of type-challenges.
 | 00599  |             Merge              |   Medium   |        #object        |
 | 00612  |           KebabCase            |   Medium   |   #template-literal   |
 | 00645  |              Diff              |   Medium   |        #object        |
+| 00949  |             AnyOf              |   Medium   |        #array         |
