@@ -44,3 +44,4 @@ My solutions to the questions of type-challenges.
 | 00612  |           KebabCase            |   Medium   |   #template-literal   |
 | 00645  |              Diff              |   Medium   |        #object        |
 | 00949  |             AnyOf              |   Medium   |        #array         |
+| 01042  |            IsNever             |   Medium   |   #union<br>#utils    |
