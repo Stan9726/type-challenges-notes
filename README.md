@@ -45,3 +45,4 @@ My solutions to the questions of type-challenges.
 | 00645  |              Diff              |   Medium   |        #object        |
 | 00949  |             AnyOf              |   Medium   |        #array         |
 | 01042  |            IsNever             |   Medium   |   #union<br>#utils    |
+| 01097  |            IsUnion             |   Medium   |   #union<br>#utils    |
