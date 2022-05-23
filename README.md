@@ -47,3 +47,4 @@ My solutions to the questions of type-challenges.
 | 01042  |            IsNever             |   Medium   |   #union<br>#utils    |
 | 01097  |            IsUnion             |   Medium   |   #union<br>#utils    |
 | 01130  |          ReplaceKeys           |   Medium   |           #           |
+| 01367  |     Remove Index Signature     |   Medium   |           #           |
