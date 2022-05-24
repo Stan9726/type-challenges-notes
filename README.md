@@ -49,3 +49,4 @@ My solutions to the questions of type-challenges.
 | 01130  |          ReplaceKeys           |   Medium   |           #           |
 | 01367  |     Remove Index Signature     |   Medium   |           #           |
 | 01978  |       Percentage Parser        |   Medium   |   #template-literal   |
+| 02070  |           Drop Char            |   Medium   | #infer<br>#template-literal |
