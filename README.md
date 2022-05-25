@@ -52,3 +52,4 @@ My solutions to the questions of type-challenges.
 | 02070  |           Drop Char            |   Medium   | #infer<br>#template-literal |
 | 02257  |            MinusOne            |   Medium   |         #meth         |
 | 02595  |           PickByType           |   Medium   |        #object        |
+| 02688  |           StartsWith           |   Medium   |   #template-literal   |
