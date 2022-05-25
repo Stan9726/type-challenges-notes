@@ -51,3 +51,4 @@ My solutions to the questions of type-challenges.
 | 01978  |       Percentage Parser        |   Medium   |   #template-literal   |
 | 02070  |           Drop Char            |   Medium   | #infer<br>#template-literal |
 | 02257  |            MinusOne            |   Medium   |         #meth         |
+| 02595  |           PickByType           |   Medium   |        #object        |
