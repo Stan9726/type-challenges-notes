@@ -53,3 +53,4 @@ My solutions to the questions of type-challenges.
 | 02257  |            MinusOne            |   Medium   |         #meth         |
 | 02595  |           PickByType           |   Medium   |        #object        |
 | 02688  |           StartsWith           |   Medium   |   #template-literal   |
+| 02693  |            EndsWith            |   Medium   |   #template-literal   |
