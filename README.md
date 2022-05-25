@@ -55,3 +55,4 @@ My solutions to the questions of type-challenges.
 | 02688  |           StartsWith           |   Medium   |   #template-literal   |
 | 02693  |            EndsWith            |   Medium   |   #template-literal   |
 | 02757  |         PartialByKeys          |   Medium   |        #object        |
+| 02693  |         RequiredByKeys         |   Medium   |        #object        |
