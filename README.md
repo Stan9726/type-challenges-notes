@@ -56,3 +56,4 @@ My solutions to the questions of type-challenges.
 | 02693  |            EndsWith            |   Medium   |   #template-literal   |
 | 02757  |         PartialByKeys          |   Medium   |        #object        |
 | 02693  |         RequiredByKeys         |   Medium   |        #object        |
+| 02793  |            Mutable             |   Medium   | #object-keys<br>#readonly |
