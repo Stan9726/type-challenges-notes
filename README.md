@@ -20,7 +20,7 @@ My solutions to the questions of type-challenges.
 | 03312  |           Parameters           |    Easy    | #built-in<br>#infer<br>#tuple |
 | 00002  |         Get Return Type        |   Medium   |  #built-in<br>#infer  |
 | 00003  |              Omit              |   Medium   |  #built-in<br>#union  |
-| 00008  |           Readonly 2           |   Medium   | #object-keys<br>#readonly  |
+| 00008  |           Readonly 2           |   Medium   | #object-keys<br>#readonly |
 | 00009  |         Deep Readonly          |   Medium   | #deep<br>#object-keys<br>#readonly |
 | 00010  |         Tuple to Union         |   Medium   | #infer<br>#tuple<br>#union |
 | 00012  |       Chainable Options        |   Medium   |     #application      |
