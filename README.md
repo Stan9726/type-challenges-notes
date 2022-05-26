@@ -59,3 +59,4 @@ My solutions to the questions of type-challenges.
 | 02793  |            Mutable             |   Medium   | #object-keys<br>#readonly |
 | 02852  |           OmitByType           |   Medium   |        #object        |
 | 02946  |         ObjectEntries          |   Medium   |        #object        |
+| 03062  |             Shift              |   Medium   |        #array         |
