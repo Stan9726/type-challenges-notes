@@ -57,3 +57,4 @@ My solutions to the questions of type-challenges.
 | 02757  |         PartialByKeys          |   Medium   |        #object        |
 | 02693  |         RequiredByKeys         |   Medium   |        #object        |
 | 02793  |            Mutable             |   Medium   | #object-keys<br>#readonly |
+| 02852  |           OmitByType           |   Medium   |        #object        |
