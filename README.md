@@ -60,3 +60,4 @@ My solutions to the questions of type-challenges.
 | 02852  |           OmitByType           |   Medium   |        #object        |
 | 02946  |         ObjectEntries          |   Medium   |        #object        |
 | 03062  |             Shift              |   Medium   |        #array         |
+| 03188  |     Tuple to Nested Object     |   Medium   |        #object        |
