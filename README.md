@@ -62,3 +62,4 @@ My solutions to the questions of type-challenges.
 | 03062  |             Shift              |   Medium   |        #array         |
 | 03188  |     Tuple to Nested Object     |   Medium   |        #object        |
 | 03192  |            Reverse             |   Medium   |        #tuple         |
+| 03196  |         Flip Arguments         |   Medium   |      #arguments       |
