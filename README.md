@@ -63,3 +63,4 @@ My solutions to the questions of type-challenges.
 | 03188  |     Tuple to Nested Object     |   Medium   |        #object        |
 | 03192  |            Reverse             |   Medium   |        #tuple         |
 | 03196  |         Flip Arguments         |   Medium   |      #arguments       |
+| 03243  |         Flatten Depth          |   Medium   |        #array         |
