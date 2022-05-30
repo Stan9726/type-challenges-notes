@@ -67,3 +67,4 @@ My solutions to the questions of type-challenges.
 | 03326  |        BEM style string        |   Medium   | #template-literal<br>#tuple<br>#union |
 | 03376  |        InorderTraversal        |   Medium   |        #object        |
 | 04179  |              Flip              |   Medium   |        #object        |
+| 04182  |       Fibonacci Sequence       |   Medium   |           #           |
