@@ -66,3 +66,4 @@ My solutions to the questions of type-challenges.
 | 03243  |         Flatten Depth          |   Medium   |        #array         |
 | 03326  |        BEM style string        |   Medium   | #template-literal<br>#tuple<br>#union |
 | 03376  |        InorderTraversal        |   Medium   |        #object        |
+| 04179  |              Flip              |   Medium   |        #object        |
