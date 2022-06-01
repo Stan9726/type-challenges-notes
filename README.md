@@ -71,3 +71,4 @@ My solutions to the questions of type-challenges.
 | 04260  |        AllCombinations         |   Medium   |           #           |
 | 04425  |          Greater Than          |   Medium   |        #array         |
 | 04471  |              Zip               |   Medium   |        #tuple         |
+| 04484  |            IsTuple             |   Medium   |        #tuple         |
