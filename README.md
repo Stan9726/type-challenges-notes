@@ -72,3 +72,4 @@ My solutions to the questions of type-challenges.
 | 04425  |          Greater Than          |   Medium   |        #array         |
 | 04471  |              Zip               |   Medium   |        #tuple         |
 | 04484  |            IsTuple             |   Medium   |        #tuple         |
+| 04499  |             Chunk              |   Medium   |        #tuple         |
