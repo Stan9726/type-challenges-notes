@@ -75,3 +75,4 @@ My solutions to the questions of type-challenges.
 | 04499  |             Chunk              |   Medium   |        #tuple         |
 | 04518  |              Fill              |   Medium   |        #tuple         |
 | 04803  |           Trim Right           |   Medium   |           #           |
+| 05117  |            Without             |   Medium   |   #array<br>#union    |
