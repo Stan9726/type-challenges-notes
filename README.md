@@ -74,3 +74,4 @@ My solutions to the questions of type-challenges.
 | 04484  |            IsTuple             |   Medium   |        #tuple         |
 | 04499  |             Chunk              |   Medium   |        #tuple         |
 | 04518  |              Fill              |   Medium   |        #tuple         |
+| 04803  |           Trim Right           |   Medium   |           #           |
