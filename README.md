@@ -76,3 +76,4 @@ My solutions to the questions of type-challenges.
 | 04518  |              Fill              |   Medium   |        #tuple         |
 | 04803  |           Trim Right           |   Medium   |           #           |
 | 05117  |            Without             |   Medium   |   #array<br>#union    |
+| 05140  |             Trunc              |   Medium   |   #template-literal   |
