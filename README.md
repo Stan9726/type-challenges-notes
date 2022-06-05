@@ -77,3 +77,4 @@ My solutions to the questions of type-challenges.
 | 04803  |           Trim Right           |   Medium   |           #           |
 | 05117  |            Without             |   Medium   |   #array<br>#union    |
 | 05140  |             Trunc              |   Medium   |   #template-literal   |
+| 05153  |            IndexOf             |   Medium   |        #array         |
