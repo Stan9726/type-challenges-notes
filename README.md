@@ -79,3 +79,4 @@ My solutions to the questions of type-challenges.
 | 05140  |             Trunc              |   Medium   |   #template-literal   |
 | 05153  |            IndexOf             |   Medium   |        #array         |
 | 05310  |              Join              |   Medium   |        #array         |
+| 05317  |          LastIndexOf           |   Medium   |        #array         |
