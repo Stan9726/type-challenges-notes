@@ -78,3 +78,4 @@ My solutions to the questions of type-challenges.
 | 05117  |            Without             |   Medium   |   #array<br>#union    |
 | 05140  |             Trunc              |   Medium   |   #template-literal   |
 | 05153  |            IndexOf             |   Medium   |        #array         |
+| 05310  |              Join              |   Medium   |        #array         |
