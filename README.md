@@ -81,3 +81,4 @@ My solutions to the questions of type-challenges.
 | 05310  |              Join              |   Medium   |        #array         |
 | 05317  |          LastIndexOf           |   Medium   |        #array         |
 | 05360  |             Unique             |   Medium   |        #array         |
+| 05821  |            MapTypes            |   Medium   | #map<br>#object<br>#utils |
