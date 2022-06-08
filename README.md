@@ -80,3 +80,4 @@ My solutions to the questions of type-challenges.
 | 05153  |            IndexOf             |   Medium   |        #array         |
 | 05310  |              Join              |   Medium   |        #array         |
 | 05317  |          LastIndexOf           |   Medium   |        #array         |
+| 05360  |             Unique             |   Medium   |        #array         |
