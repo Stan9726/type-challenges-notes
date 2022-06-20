@@ -85,3 +85,4 @@ My solutions to the questions of type-challenges.
 | 07544  |        Construct Tuple         |   Medium   |        #tuple         |
 | 08640  |          Number Range          |   Medium   |           #           |
 | 08767  |          Combination           |   Medium   | #application<br>#array<br>#string |
+| 08640  |          Subsequence           |   Medium   |        #union         |
