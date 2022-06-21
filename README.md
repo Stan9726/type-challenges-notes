@@ -86,3 +86,4 @@ My solutions to the questions of type-challenges.
 | 08640  |          Number Range          |   Medium   |           #           |
 | 08767  |          Combination           |   Medium   | #application<br>#array<br>#string |
 | 08640  |          Subsequence           |   Medium   |        #union         |
+| 00006  |           Simple Vue           |    Hard    | #application<br>#this<br>#vue |
