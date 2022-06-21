@@ -87,3 +87,4 @@ My solutions to the questions of type-challenges.
 | 08767  |          Combination           |   Medium   | #application<br>#array<br>#string |
 | 08640  |          Subsequence           |   Medium   |        #union         |
 | 00006  |           Simple Vue           |    Hard    | #application<br>#this<br>#vue |
+| 00017  |           Currying 1           |   Medium   |        #array         |
